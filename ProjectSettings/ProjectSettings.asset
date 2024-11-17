@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 27
-  productGUID: a70888ce508b00941a3d51b5d73c5671
+  productGUID: 5cd89c9b5c31e934bbf5b78c164a6a3d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Finite_State_Machines_55117
+  productName: FineStateMachines
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -651,7 +651,8 @@ PlayerSettings:
   webGLWebAssemblyTable: 0
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: STARTER_ASSETS_PACKAGES_CHECKED
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -686,14 +687,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Finite_State_Machines_55117
+  metroPackageName: FineStateMachines
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Finite_State_Machines_55117
+  metroApplicationDescription: FineStateMachines
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -763,13 +764,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3487191e-9661-42bc-afb1-ba01042b9b77
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Finite_State_Machines_55117
-  organizationId: giulio_relva_ip
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
